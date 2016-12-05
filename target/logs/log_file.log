@@ -1,0 +1,2 @@
+2016-12-04 22:57:53 INFO  AnnotationConfigApplicationContext:582 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@73c6c3b2: startup date [Sun Dec 04 22:57:53 SAMT 2016]; root of context hierarchy
+2016-12-04 22:57:59 INFO  ToFile:55 - object was serialized to xml
